@@ -1,7 +1,23 @@
 .tittle {
+  background: #EBFAFF;
   width: 100%;
   margin: auto;
   text-align: center;
+}
+
+.teste1{
+  background: #F3F3F3;
+  width: 600px;
+}
+
+.teste2{
+  background: #F3F3F3;
+  width: 600px;
+}
+
+.teste3{
+  background: #F3F3F3;
+  width: 600px;
 }
 
 body {
