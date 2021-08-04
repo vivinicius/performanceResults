@@ -1,0 +1,10 @@
+{
+  "simulation": "maxxiforge.Estresse",
+  "simulationId": "estresse",
+  "start": 1628027749998,
+  "description": "",
+  "scenarios": ["Realizar login MaxxiForge para rota Action"],
+  "assertions": [
+
+  ]
+}

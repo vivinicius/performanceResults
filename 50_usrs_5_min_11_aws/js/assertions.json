@@ -1,0 +1,10 @@
+{
+  "simulation": "maxxiforge.Jornada",
+  "simulationId": "jornada",
+  "start": 1627653495471,
+  "description": "",
+  "scenarios": ["Realizar login MaxxiForge para rota Action"],
+  "assertions": [
+
+  ]
+}
