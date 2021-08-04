@@ -5,19 +5,65 @@
   text-align: center;
 }
 
-.teste1{
+.hardware1{
   background: #F3F3F3;
   width: 600px;
 }
 
-.teste2{
-  background: #F3F3F3;
+.testTittle1{
+  background: #FF5A2A;
   width: 600px;
 }
 
-.teste3{
-  background: #F3F3F3;
+.testTittle2{
+  background: #FFF826;
   width: 600px;
+}
+
+.testDescription1{
+  background: #FFA68C;
+  width: 600px;
+}
+
+.testDescription2{
+  background: #FFFDC9;
+  width: 600px;
+}
+
+.links1{
+  background: #FFA68C;
+  width: 600px;
+}
+
+.links2{
+  background: #FFFDC9;
+  width: 600px;
+}
+
+.test1{
+    width: 600px;
+    border: 3px solid #000;
+    border-radius: 4px;
+    margin: 2px;
+}
+
+.test2{
+    width: 600px;
+    border: 3px solid #000;
+    border-radius: 4px;
+    margin: 2px;
+    display: inline-block;
+}
+
+iframe{
+width: 100vw;
+max-width: 70%;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
 }
 
 body {
