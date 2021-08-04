@@ -1,7 +1,7 @@
 {
   "simulation": "maxxiforge.JornadaEstresse",
   "simulationId": "jornadaestresse",
-  "start": 1628023896948,
+  "start": 1628095062059,
   "description": "",
   "scenarios": ["Realizar login MaxxiForge para rota Action"],
   "assertions": [
